@@ -15,6 +15,7 @@ Estudiante de la **Tecnicatura Universitaria en Programación (UTN - TUP)** enfo
 ### Proyectos Destacados
 
 **[tienda-mascotas](https://github.com/tomascenturion895-prog/tienda-mascotas):** Proyecto desarrollado en Laravel utilizando vistas y directivas Blade.
+
 **[Sistema_Menu_Personalizado](https://github.com/tomascenturion895-prog/Sistema_Menu_Personalizado):** Sistema para gestión de menús desarrollado en PHP.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
