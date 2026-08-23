@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola! Soy Tomas Centurion 
 
-<!--
-**tomascenturion895-prog/tomascenturion895-prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de la **Tecnicatura Universitaria en Programación (UTN - TUP)** enfocado en desarrollo backend y bases de datos.
 
-Here are some ideas to get you started:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías y Herramientas
+
+* **Lenguajes & Frameworks:** PHP, Laravel, HTML5, CSS3, Tailwind CSS, JavaScript
+* **Bases de Datos:** MySQL, SQL Server
+* **Herramientas:** Git, GitHub, MySQL Workbench, Laragon, VS Code
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 🚀 Proyectos Destacados
+
+* 🛒 **[tienda-mascotas](https://github.com/tomascenturion895-prog/tienda-mascotas):** Proyecto desarrollado en Laravel utilizando vistas y directivas Blade.
+* 🍽️ **[Sistema_Menu_Personalizado](https://github.com/tomascenturion895-prog/Sistema_Menu_Personalizado):** Sistema para gestión de menús desarrollado en PHP.
+* 📂 **[vistas-directivas-blade](https://github.com/tomascenturion895-prog/vistas-directivas-blade):** Proyecto enfocado en la modularización de vistas en Laravel.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
