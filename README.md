@@ -1,6 +1,6 @@
 # Hola! Soy Tomas Centurion 
 
-Estudiante de la **Tecnicatura Universitaria en Programación (UTN - TUP)** enfocado en desarrollo backend y bases de datos.
+Estudiante de la **Tecnicatura Universitaria en Programación (UTN - TUP)** enfocado en desarrollo backend/frontend y bases de datos.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
